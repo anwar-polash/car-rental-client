@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Roboto', sans-serif;
+  @apply bg-violet-300/15 text-gray-800;
+}
+.polash {
+  border: 1px solid red;
+}
+
+.active {
+  @apply text-yellow-500 font-semibold;
+}
+
+@layer components {
+  .max-width {
+    @apply max-w-7xl w-full mx-auto px-2 xl:px-0;
+  }
+}
