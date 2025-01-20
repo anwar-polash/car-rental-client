@@ -8,7 +8,7 @@ import useAuth from "../../hooks/useAuth";
 import { toast } from "react-toastify";
 
 const SignUp = () => {
-  document.title = "Sign Up | Chill Gamer";
+  document.title = "Sign Up | Car Rental";
   const [showPassword, setShowPassword] = useState(false);
   const [fullName, setFullName] = useState("");
   const [photoURL, setPhotoURL] = useState("");

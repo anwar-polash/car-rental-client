@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 const NotFoundPage = () => {
-  document.title = "404 Not Found | Chill Gamer";
+  document.title = "404 Not Found | Car Rental";
   return (
     <div className="flex items-center justify-center min-h-screen">
       <div className="max-w-2xl w-full bg-blue-100 rounded-lg shadow-lg p-10 flex flex-col gap-16 items-center mb-20">

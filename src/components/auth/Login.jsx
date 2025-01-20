@@ -6,7 +6,7 @@ import useAuth from "./../../hooks/useAuth";
 import { toast } from "react-toastify";
 
 const Login = () => {
-  document.title = "Login | Chill Gamer";
+  document.title = "Login | Car Rental";
   const [showPassword, setShowPassword] = useState(false);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");

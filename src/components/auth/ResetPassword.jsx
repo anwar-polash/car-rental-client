@@ -4,7 +4,7 @@ import useAuth from "../../hooks/useAuth";
 import { toast } from "react-toastify";
 
 const ResetPassword = () => {
-  document.title = "Reset Password | Chill Gamer";
+  document.title = "Reset Password | Car Rental";
   const navigate = useNavigate();
   const { sendPasswordResetEmailToUser, forgotEmail, setForgotEmail } =
     useAuth();

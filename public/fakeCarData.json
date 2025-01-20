@@ -1,0 +1,195 @@
+[
+  {
+    "carModel": "Toyota Corolla",
+    "dailyRentalPrice": "40",
+    "availability": true,
+    "vehicleRegistrationNumber": "ABC-1234",
+    "features": ["GPS", "AC", "Bluetooth"],
+    "description": "A reliable compact sedan with great fuel efficiency.",
+    "carImageUrl": "https://i.ibb.co.com/zV2zz8w/2024-toyota-corolla1699323066120.jpg",
+    "location": "New York, NY",
+    "bookingCount": 0,
+    "owner": {
+      "name": "Admin",
+      "email": "admin@rentalcar.com",
+      "photo": "https://avatar.iran.liara.run/public/36"
+    },
+    "createdAt": "2024-12-28T05:23:15.247Z"
+  },
+  {
+    "carModel": "Honda Civic",
+    "dailyRentalPrice": "45",
+    "availability": false,
+    "vehicleRegistrationNumber": "DEF-5678",
+    "features": ["GPS", "AC", "Bluetooth", "Sunroof"],
+    "description": "A stylish sedan perfect for city driving.",
+    "carImageUrl": "https://i.ibb.co.com/5s6hHwF/HD-wallpaper-honda-civic-honda-civic.jpg",
+    "location": "Los Angeles, CA",
+    "bookingCount": 0,
+    "owner": {
+      "name": "Admin",
+      "email": "admin@rentalcar.com",
+      "photo": "https://avatar.iran.liara.run/public/36"
+    },
+    "createdAt": "2024-12-28T05:23:15.247Z"
+  },
+  {
+    "carModel": "Ford Explorer",
+    "dailyRentalPrice": "70",
+    "availability": true,
+    "vehicleRegistrationNumber": "GHI-9012",
+    "features": ["GPS", "AC", "Bluetooth"],
+    "description": "A spacious SUV with ample seating and cargo room.",
+    "carImageUrl": "https://example.com/car3.jpg",
+    "location": "Houston, TX",
+    "bookingCount": 0,
+    "owner": {
+      "name": "Admin",
+      "email": "admin@rentalcar.com",
+      "photo": "https://avatar.iran.liara.run/public/36"
+    },
+    "createdAt": "2024-12-28T05:23:15.247Z"
+  },
+  {
+    "carModel": "Tesla Model 3",
+    "dailyRentalPrice": "80",
+    "availability": false,
+    "vehicleRegistrationNumber": "JKL-3456",
+    "features": ["GPS", "AC", "Bluetooth", "Sunroof"],
+    "description": "A premium electric car with cutting-edge technology.",
+    "carImageUrl": "https://i.ibb.co.com/z5Wzxxp/wp3901796.jpg",
+    "location": "San Francisco, CA",
+    "bookingCount": 0,
+    "owner": {
+      "name": "Admin",
+      "email": "admin@rentalcar.com",
+      "photo": "https://avatar.iran.liara.run/public/36"
+    },
+    "createdAt": "2024-12-28T05:23:15.247Z"
+  },
+  {
+    "carModel": "Chevrolet Tahoe",
+    "dailyRentalPrice": "75",
+    "availability": true,
+    "vehicleRegistrationNumber": "MNO-7890",
+    "features": ["GPS", "AC", "Bluetooth"],
+    "description": "A rugged SUV built for road trips and family adventures.",
+    "carImageUrl": "https://i.ibb.co.com/9TN62F9/images-q-tbn-ANd9-Gc-Tza-BCijh7-W34-F0-LEZBzy-Dx-p2-Zohrfp-OARQ-s.jpg",
+    "location": "Chicago, IL",
+    "bookingCount": 0,
+    "owner": {
+      "name": "Admin",
+      "email": "admin@rentalcar.com",
+      "photo": "https://avatar.iran.liara.run/public/36"
+    },
+    "createdAt": "2024-12-28T05:23:15.247Z"
+  },
+  {
+    "carModel": "BMW 5 Series",
+    "dailyRentalPrice": "90",
+    "availability": true,
+    "vehicleRegistrationNumber": "PQR-4567",
+    "features": ["GPS", "AC", "Bluetooth", "Sunroof"],
+    "description": "A luxury sedan with excellent performance and comfort.",
+    "carImageUrl": "https://i.ibb.co.com/qNf67ft/images-q-tbn-ANd9-Gc-Rk1akh-T35wwh-YL14hn-FI8-ISn-In-Gp1-hf-AAEw-s.jpg",
+    "location": "Miami, FL",
+    "bookingCount": 0,
+    "owner": {
+      "name": "Admin",
+      "email": "admin@rentalcar.com",
+      "photo": "https://avatar.iran.liara.run/public/36"
+    },
+    "createdAt": "2024-12-28T05:23:15.247Z"
+  },
+  {
+    "carModel": "Nissan Altima",
+    "dailyRentalPrice": "50",
+    "availability": false,
+    "vehicleRegistrationNumber": "STU-2345",
+    "features": ["GPS", "AC", "Bluetooth"],
+    "description": "A comfortable midsize sedan with advanced safety features.",
+    "carImageUrl": "https://example.com/car7.jpg",
+    "location": "Seattle, WA",
+    "bookingCount": 0,
+    "owner": {
+      "name": "Admin",
+      "email": "admin@rentalcar.com",
+      "photo": "https://avatar.iran.liara.run/public/36"
+    },
+    "createdAt": "2024-12-28T05:23:15.247Z"
+  },
+  {
+    "carModel": "Jeep Wrangler",
+    "dailyRentalPrice": "85",
+    "availability": true,
+    "vehicleRegistrationNumber": "VWX-6789",
+    "features": ["GPS", "AC", "Bluetooth"],
+    "description": "A rugged off-road vehicle with unmatched versatility.",
+    "carImageUrl": "https://i.ibb.co.com/KLDmWMj/platinum-nissan-2019-altima-wallpaper-preview.jpg",
+    "location": "Denver, CO",
+    "bookingCount": 0,
+    "owner": {
+      "name": "Admin",
+      "email": "admin@rentalcar.com",
+      "photo": "https://avatar.iran.liara.run/public/36"
+    },
+    "createdAt": "2024-12-28T05:23:15.247Z"
+  },
+  {
+    "carModel": "Hyundai Elantra",
+    "dailyRentalPrice": "35",
+    "availability": true,
+    "vehicleRegistrationNumber": "YZA-1234",
+    "features": ["GPS", "AC", "Bluetooth"],
+    "description": "A compact car with exceptional value and efficiency.",
+    "carImageUrl": "https://i.ibb.co.com/m505rR9/thumb-1920-1071546.jpg",
+    "location": "Atlanta, GA",
+    "bookingCount": 0,
+    "owner": {
+      "name": "Admin",
+      "email": "admin@rentalcar.com",
+      "photo": "https://avatar.iran.liara.run/public/36"
+    },
+    "createdAt": "2024-12-28T05:23:15.247Z"
+  },
+  {
+    "carModel": "Mercedes-Benz C-Class",
+    "dailyRentalPrice": "100",
+    "availability": false,
+    "vehicleRegistrationNumber": "BCD-5678",
+    "features": ["GPS", "AC", "Bluetooth", "Sunroof"],
+    "description": "A premium sedan with elegance and superior comfort.",
+    "carImageUrl": "https://i.ibb.co.com/zG3Kbw9/1659014-3840x2160-desktop-4k-mercedes-benz-c-class-background-photo.jpg",
+    "location": "Boston, MA",
+    "bookingCount": 0,
+    "owner": {
+      "name": "Admin",
+      "email": "admin@rentalcar.com",
+      "photo": "https://avatar.iran.liara.run/public/36"
+    },
+    "createdAt": "2024-12-28T05:23:15.247Z"
+  },
+  {
+    "_id": "67835b4abe4f8d063dee6910",
+    "client": {
+      "name": "Akash",
+      "email": "test@gmail.com"
+    },
+    "carDetails": {
+      "carId": "676f9990761cdf8cd4c453d7",
+      "carModel": "Chevrolet Tahoe",
+      "dailyRentalPrice": "75",
+      "availability": true,
+      "features": ["GPS", "AC", "Bluetooth"],
+      "carImageUrl": "https://i.ibb.co.com/M2c3JqG/wp9994359.jpg",
+      "description": "A rugged SUV built for road trips and family adventures.",
+      "location": "Chicago, IL",
+      "owner": {
+        "name": "Admin",
+        "email": "admin@rentalcar.com",
+        "photo": "https://avatar.iran.liara.run/public/36"
+      }
+    },
+    "bookingDate": "2025-01-14T18:00:00.000Z"
+  }
+]
