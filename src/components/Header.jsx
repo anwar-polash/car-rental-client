@@ -1,7 +1,7 @@
-import slide1 from "../assets/slide/slide1.png";
-import slide2 from "../assets/slide/slide2.png";
-import slide3 from "../assets/slide/slide3.png";
-import slide4 from "../assets/slide/slide4.png";
+import slide1 from "../assets/slide/slide1.jpg";
+import slide2 from "../assets/slide/slide2.jpg";
+import slide3 from "../assets/slide/slide3.jpg";
+import slide4 from "../assets/slide/slide4.jpg";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -27,10 +27,7 @@ const Header = () => {
         <SwiperSlide>
           <div>
             <div className="relative">
-              <img
-                className="w-full h-full object-cover"
-                src="./src/assets/images/8.jpg"
-              />
+              <img className="w-full h-full object-cover" src={slide1} />
               <div className="absolute top-0 p-4   lg:p-11">
                 <p className="text-[#F5A529]">* P R E M I U M</p>
                 <h2 className="text-white text-[2rem] lg:text-[3rem] font-bold">
@@ -52,10 +49,7 @@ const Header = () => {
         <SwiperSlide>
           <div>
             <div className="relative">
-              <img
-                className="w-full h-full object-cover"
-                src="./src/assets/images/11.jpg"
-              />
+              <img className="w-full h-full object-cover" src={slide2} />
               <div className="absolute top-0 p-4   lg:p-11">
                 <p className="text-[#F5A529]">* P R E M I U M</p>
                 <h2 className="text-white text-[2rem] lg:text-[3rem] font-bold">
@@ -77,10 +71,7 @@ const Header = () => {
         <SwiperSlide>
           <div>
             <div className="relative">
-              <img
-                className="w-full h-full object-cover"
-                src="./src/assets/images/12.jpg"
-              />
+              <img className="w-full h-full object-cover" src={slide3} />
               <div className="absolute top-0 p-4   lg:p-11">
                 <p className="text-[#F5A529]">* P R E M I U M</p>
                 <h2 className="text-white text-[2rem] lg:text-[3rem] font-bold">
@@ -102,10 +93,7 @@ const Header = () => {
         <SwiperSlide>
           <div>
             <div className="relative">
-              <img
-                className="w-full h-full object-cover"
-                src="./src/assets/images/9.jpg"
-              />
+              <img className="w-full h-full object-cover" src={slide4} />
               <div className="absolute top-0 p-4   lg:p-11">
                 <p className="text-[#F5A529]">* P R E M I U M</p>
                 <h2 className="text-white text-[2rem] lg:text-[3rem] font-bold">

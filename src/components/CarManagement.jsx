@@ -8,7 +8,6 @@ const CarManagement = ({ cars, refetchMyCars }) => {
   const [carData, setCarData] = useState(cars);
   const [sortOption, setSortOption] = useState("");
   const [editingCar, setEditingCar] = useState(null);
-  console.log(carData);
 
   // Sorting cars
   const sortCars = (option) => {

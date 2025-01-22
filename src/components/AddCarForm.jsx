@@ -60,7 +60,6 @@ const AddCarForm = () => {
       createdAt: new Date().toISOString(),
     };
 
-    console.log(fromData);
     // Send car data to the server
     const { data } = await axios.post(
       `${import.meta.env.VITE_API_URL}/carList/add`,

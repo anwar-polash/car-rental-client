@@ -1,8 +1,8 @@
-import { useCallback, useEffect, useState } from 'react';
-import MyBookingTable from '../components/MyBookingTable';
-import axios from 'axios';
-import useAuth from '../hooks/useAuth';
-import LoadingSpinner from '../components/LoadingSpinner';
+import { useCallback, useEffect, useState } from "react";
+import MyBookingTable from "../components/MyBookingTable";
+import axios from "axios";
+import useAuth from "../hooks/useAuth";
+import LoadingSpinner from "../components/LoadingSpinner";
 
 const MyBookingPage = () => {
   const [myBookedCars, setMyBookedCars] = useState([]);
@@ -23,13 +23,11 @@ const MyBookingPage = () => {
     fetchMyCars();
   }, [fetchMyCars]);
 
-  console.log(myBookedCars);
-
   return (
     <section className="min-h-screen">
       <h2 className="text-2xl font-bold text-center my-20">My Bookings</h2>
       <div className="max-width">
-        {loading && <LoadingSpinner />}
+        y{loading && <LoadingSpinner />}
         {!loading && myBookedCars.length === 0 && (
           <h3 className="text-xl text-center">No bookings found</h3>
         )}

@@ -4,6 +4,7 @@ import { HiEyeOff } from "react-icons/hi";
 import { HiEye } from "react-icons/hi2";
 import useAuth from "./../../hooks/useAuth";
 import { toast } from "react-toastify";
+import modern from "../../assets/images/undraw_Modern_design_re_dlp8.png";
 
 const Login = () => {
   document.title = "Login | Car Rental";
@@ -59,7 +60,7 @@ const Login = () => {
       <div className="max-w-full lg:max-w-[40%]">
         <img
           className="w-full h-full object-cover rounded-lg"
-          src="./src/assets/images/undraw_Modern_design_re_dlp8.png"
+          src={modern}
           alt=""
         />
       </div>
